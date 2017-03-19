@@ -4,9 +4,9 @@ var booleano = true;
 var hoy = new Date();
 hoy = new Date('2017-09-21');
 var cualquiera;
-cualquiera = "nombre";
-cualquiera = 21;
-cualquiera = false;
+cualquiera = nombre;
+cualquiera = edad;
+cualquiera = booleano;
 cualquiera = hoy;
 var spiderman = {
     nombre: "Peter",
